@@ -2,6 +2,7 @@
 Module 1 Challenge - Excel
 
 CrowdfundingBook_DaianaSpataru.xlsx - This file contains all the Excel analysis for Module 1 Challenge
+
 Module 1 Challenge_Crowdfunding_DaianaSpataru.pdf - This file contains the answers to the following questions:
 1. Given the provided data, what are three conclusions that we can draw about crowdfunding campaigns? (from "Instructions" section of the Module Challenge)
 2. What are some limitations of this dataset? (from "Instructions" section of the Module Challenge)
