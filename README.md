@@ -1,4 +1,4 @@
-# excel-challenge
+# Analysis of Crowdfunding Data
 Module 1 Challenge - Excel
 
 CrowdfundingBook_DaianaSpataru.xlsx - This file contains all the Excel analysis for Module 1 Challenge
